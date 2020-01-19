@@ -1,0 +1,16 @@
+header:
+  - titles:
+      # @start locale config
+      en      : &EN       About
+      # @end locale config
+    url: /index.html
+  - titles:
+      # @start locale config
+      en      : &EN       Menu
+      # @end locale config
+    url: /menu.html
+  - titles:
+      # @start locale config
+      en      : &EN       Location
+      # @end locale config
+    url: /location.html
