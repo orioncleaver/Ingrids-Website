@@ -38,6 +38,17 @@
   h2 {
     @include split-line(bottom);
   }
+  h4 {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  h5 {
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+  p {
+    margin-top:0;
+  }
   hr {
     border: none;
     @include horizontal-rules();

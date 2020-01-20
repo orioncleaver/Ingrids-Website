@@ -3,7 +3,7 @@ header:
       # @start locale config
       en      : &EN       About
       # @end locale config
-    url: /index.html
+    url: /about.html
   - titles:
       # @start locale config
       en      : &EN       Menu
