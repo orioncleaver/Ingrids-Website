@@ -8,15 +8,15 @@ show_title: false
 ![Wrap.png](/assets/images/cover-wrap.png)
 
 ## LEFSE WRAPS
-#### NORWEGIAN MEATBALL WRAP . . . . . . 8
+#### NORWEGIAN MEATBALL WRAP . . . . 8
 Norwegian meatballs and Surkål topped with Gjetost cheese sauce
-#### SALMON WRAP . . . . . . 9
+#### SALMON WRAP . . . . . 9
 Smoked salmon, slices of hard-boiled egg and cucumber on a bed of arugula topped with chèvre and our house made dill sauce
-#### PØLSE WRAP . . . . . . 7
+#### PØLSE WRAP . . . . . 7
 Smoked sausage with Norwegian coleslaw, dill mustard, and pickled onions and cucumbers
-#### VEGGIE PEAR WRAP . . . . . . 7
+#### VEGGIE PEAR WRAP . . . . . 7
 Fresh pear, seasonal mixed greens, slices of hard-boiled egg and cucumber, feta, walnuts, and creamy cranberry sauce
-#### KREMET POTET WRAP . . . . . . 7
+#### KREMET POTET WRAP . . . . . 7
 Lightly pan-fried sweet potatoes slices on a bed of creamy chèvre and fresh spinach with walnuts
 
 <div class="card">
@@ -30,9 +30,9 @@ Lightly pan-fried sweet potatoes slices on a bed of creamy chèvre and fresh spi
 </div>
 
 ## SWEET WRAPS
-#### LEMON RASPBERRY WRAP . . . . . . 5
+#### LEMON RASPBERRY WRAP . . . . . 5
 House made lemon curd, raspberry sauce, and fresh whipped cream 
-#### LEFSE . . . . . . 4
+#### LEFSE . . . . . 4
 Ingrid’s house made Lefse with butter and your choice of
 cinnamon-sugar, sugar, jam, or honey
 
@@ -44,19 +44,19 @@ cinnamon-sugar, sugar, jam, or honey
   </div>
 </div>
 
-#### VIKING BURGER…...14
+#### VIKING BURGER . . . . . 14
 Venison burger with bacon, Gouda cheese, caramelized onion,  and horseradish aioli on a pub style bun
-#### HUNTSMEN SLIDERS…...14
+#### HUNTSMEN SLIDERS . . . . . 14
 Two elk sliders with wild boar bacon, sauteed mushrooms and Danish Remoulade on ciabatta sliders
 
 
 
 ## SIDES 
-#### NORWEGIAN CUCUMBER SALAD . . . . . 3
-#### NORWEGIAN COLESLAW . . . . . . 3
-#### NORWEGIAN MEATBALLS . . . . . . 5
+#### NORWEGIAN CUCUMBER SALAD . . . 3
+#### NORWEGIAN COLESLAW . . . . . 3
+#### NORWEGIAN MEATBALLS . . . . . 5
 With your choice of sauce
-#### ROASTED POTATOES . . . . . . 4
+#### ROASTED POTATOES . . . . . 4
 With your choice of sauce
 
 <div class="card">
@@ -65,29 +65,29 @@ With your choice of sauce
       <h4>SAUCES</h4>
     </div>
     <p>Creamy Dill, Cheese, Dill Mustard, Creamy Cranberry, Horseradish, Lingonberry Jam <br>
-    <strong>Extra sauce</strong> . . . . . . 50¢</p>
+    <strong>Extra sauce</strong> . . . . . 50¢</p>
   </div>
 </div>
 
 ## DRINKS
-##### Lingonberry Lemonade…...3 
-##### Iced Tea…...2 
-##### Pop…...1.50 
-##### Fentiman’s Ginger Beer…..3.50
-##### Coffee…...2 
-##### Terminal Gravity IPA…...4 
-##### Fearless loki Red Ale…...4
-##### Pfriem Pilsner…...6
-##### Tieton Apricot Hard Cider…...4
+##### Lingonberry Lemonade......3 
+##### Iced Tea......2 
+##### Pop......1.50 
+##### Fentiman’s Ginger Beer......3.50
+##### Coffee......2 
+##### Terminal Gravity IPA......4 
+##### Fearless loki Red Ale......4
+##### Pfriem Pilsner......6
+##### Tieton Apricot Hard Cider......4
 
 ## COCKTAILS
-#### Empress Elizabeth…...8
+#### Empress Elizabeth......8
 Eastside Distilling Portland Vodka, lemon, honey simple, lingonberry syrup, and cardamom bitters
-#### Erik the Red…...9
+#### Erik the Red......9
 A Scandinavian  hot ginger toddy  made with Rolling River Spirits Brown Bear Aquavit, ginger simple, and lemon
-#### Mette-Marit…...9
+#### Mette-Marit......9
 Freeland Gin, muddled lemon and lime, and St. Germain
-#### Ragnar Loðbrók…...9
+#### Ragnar Loðbrók......9
 Rolling River Spirits Brown Bear Aquavit, honey simple, and DRY Cucumber soda
-#### Rurik of Novgorod…...9
+#### Rurik of Novgorod......9
 Krogstad Aquavit, lime juice, and  Fentimans Ginger Beer
