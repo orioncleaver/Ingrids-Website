@@ -52,6 +52,17 @@ Two elk sliders with wild boar bacon, sauteed mushrooms and Danish Remoulade on 
 
 
 ## SIDES 
+<div class="item" style="background-color:#f6f6f6;padding:1em;margin:1em 0;">
+  <div class="item__image">
+    <img class="image image--xl" src="/assets/images/menu/osteplate.jpg"/>
+  </div>
+  <div class="item__content">
+    <h4>OSTEPLATE</h4>
+    <div class="item__description">
+      <p>Features three Scandinavian cheeses (Ridderost, Nøkkelost, and Danish Brie). Served with house-roasted nuts, fruit, walnut bread, and Knäckebröd.</p>
+    </div>
+  </div>
+</div>
 #### NORWEGIAN CUCUMBER SALAD . . . 3
 #### NORWEGIAN COLESLAW . . . . . 3
 #### NORWEGIAN MEATBALLS . . . . . 5
