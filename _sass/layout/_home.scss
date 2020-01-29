@@ -13,3 +13,41 @@
     margin-top: map-get($spacers, 4) * 1.5;
   }
 }
+.home-container {
+  display: flex;
+  height: 100%;
+
+  @include media-breakpoint-down(md) {
+    flex-direction: column;
+    align-items: center;  
+  }
+}
+.about-us {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  p {
+    margin-left: 1em;
+    text-align: left;
+    font-size: 3em;
+  }
+}
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: $main-color-3;
+  padding: 0.5em 1em;
+  width: 40%;
+  min-width: 325px;
+  height: 100%;
+  margin-left: -20px;
+  @include media-breakpoint-down(md) {
+    margin: 0;
+  }
+
+  h3 {
+    margin: 0;
+  }
+}
+
