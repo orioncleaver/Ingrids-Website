@@ -41,7 +41,7 @@
   & > img {
     width: map-get($base, font-size-h4) * 6.3;
     height: map-get($base, font-size-h4) * 4.2;
-    margin-right: map-get($spacers, 5);
+    margin-right: map-get($spacers, 2);
     vertical-align: middle;
     @include media-breakpoint-down(md) {
       width: map-get($base, font-size-h4) * 11.5;
@@ -51,8 +51,8 @@
   }
   & > a {
     display: inline-block;
-    font-size: map-get($base, font-size-h2);
-    font-family: 'Dosis', sans-serif;
+    font-size: map-get($base, font-size-h2) * 1.1;
+    font-family: 'Sofia', sans-serif;
     text-shadow: 2px 2px 0px rgba(0,0,0,0.1);
     @include media-breakpoint-down(md) {
       display: none;
@@ -80,6 +80,7 @@
   & > ul li a {
     font-size: map-get($base, font-size-h2) * .6;
     text-shadow: 1px 1px 0px rgba(0,0,0,0.1);
+    font-weight: bolder;
   }
 }
 
