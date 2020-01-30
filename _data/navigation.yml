@@ -14,3 +14,8 @@ header:
       en      : &EN       Location
       # @end locale config
     url: /location.html
+  - titles:
+      # @start locale config
+      en      : &EN       Contact
+      # @end locale config
+    url: /contact.html
