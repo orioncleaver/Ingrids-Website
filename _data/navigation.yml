@@ -18,4 +18,4 @@ header:
       # @start locale config
       en      : &EN       Contact
       # @end locale config
-    url: /contact.html
+    url: /#contact-form

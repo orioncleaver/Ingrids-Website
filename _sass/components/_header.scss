@@ -40,13 +40,11 @@
 
   & > img {
     width: map-get($base, font-size-h4) * 6.3;
-    height: map-get($base, font-size-h4) * 4.2;
     margin-right: map-get($spacers, 2);
     vertical-align: middle;
     @include media-breakpoint-down(md) {
       width: map-get($base, font-size-h4) * 11.5;
-      height: map-get($base, font-size-h4) * 5.6;
-      margin: 6px 0 0 0;
+      margin: 0;
     }
   }
   & > a {
@@ -69,7 +67,7 @@
     @include media-breakpoint-down(md) {
       justify-content: center;
       padding-bottom: 4px;
-      margin: -4px 0 0 0;
+      margin: 30px 0 0 0;
     }
     @include menu(4, 2, nowrap);
     @include align-items(center);
