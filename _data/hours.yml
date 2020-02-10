@@ -1,0 +1,14 @@
+- day: 'Mon'
+  hours: 'Closed'
+- day: 'Tue'
+  hours: 'Closed'
+- day: 'Wed'
+  hours: 11:30 am - 8:30 pm
+- day: 'Thu'
+  hours: 11:30 am - 8:30 pm
+- day: 'Fri'
+  hours: 11:30 am - 8:30 pm
+- day: 'Sat'
+  hours: 11:30 am - 8:30 pm
+- day: 'Sun'
+  hours: 11:30 am - 7:00 pm

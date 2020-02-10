@@ -1,0 +1,12 @@
+<div class='sidebar'>
+  <a href="tel:5037892458">(503) 744-0457</a>
+  <h3>Hours</h3>
+  <table>
+    {% for day in site.data.hours %}
+    <tr>
+      <th>{{day.day}}</th>
+      <td>{{day.hours}}</td>
+    </tr>
+    {% endfor %}
+  </table>
+</div>

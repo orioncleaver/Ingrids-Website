@@ -3,4 +3,18 @@ layout: page
 title: Home
 show_title: false
 ---
-{{content}}
+<div class='full-content-width'>
+  <div class='home-container'>
+    {% include homepage/home-hours.html %}
+    <div class='about-us'>
+      <h3>About Us</h3>
+      <p>{{content}}</p>
+    </div>
+  </div>
+  <div class='home-container'>
+    {% include homepage/home-services.html %}
+  </div>
+  <div class='home-container'>
+    {% include homepage/home-contact.html %}
+  </div>
+</div>

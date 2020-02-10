@@ -1,38 +1,14 @@
-.layout--home {
-  .pagination {
-    margin: map-get($spacers, 4) 0;
-  }
-  .pagination__menu {
-    max-width: 100%;
-    @include overflow(auto);
-  }
-  .pagination__omit {
-    color: $text-color-l;
-  }
-  .items {
-    margin-top: map-get($spacers, 4) * 1.5;
-  }
-}
 .home-container {
   display: flex;
   height: 100%;
+  width: 100%;
 
   @include media-breakpoint-down(md) {
     flex-direction: column;
     align-items: center;  
   }
-  border-bottom: 2px solid $main-color-3;
 }
-.about-us {
-  display: flex;
-  flex-direction: column;
-  text-align: center;
-  p {
-    margin-left: 1em;
-    text-align: left;
-    font-size: 3em;
-  }
-}
+
 .sidebar {
   display: flex;
   flex-direction: column;
@@ -41,13 +17,30 @@
   padding: 0.5em 1em;
   width: 40%;
   min-width: 325px;
-  height: 100%;
+  height: 75vh;
+  min-height: 400px;
   @include media-breakpoint-down(md) {
     margin: 0;
+    height: 100%;
   }
-
+  
+  a {
+    margin: 0.5em;
+  }
   h3 {
     margin: 0;
+  }
+}
+
+.about-us {
+  text-align: center;
+  h3 {
+    margin: map-get($spacers, 3);
+  }
+  p {
+    text-align: left;
+    margin: 0 map-get($spacers, 4);    
+    font-size: map-get($base, font-size);
   }
 }
 
@@ -60,14 +53,61 @@
 }
 
 .services-page {
-  img {
-    width: 300px;
+  // background: rgba(0,0,0, 0.15);
+  p {
+    margin: 1rem;
+    font-size: map-get($base, font-size);
   }
-  background: rgba(0,0,0, 0.15);
+}
+.services-header {
+  position: relative;
+  height: map-get($layout, header-height-lg);
+  background: #2B2C28;
+  border-bottom: 2px solid $main-color-3;
+  h3 {
+    position: absolute;
+    bottom: map-get($spacers, 2);
+    font-family: map-get($base, font-family-title2);
+    font-size: map-get($base, font-size-h1);
+    font-weight: 600;
+    color: $main-color-3;
+  }
+}
+
+.services-body {
+  width: 500px;
+}
+
+.services-footer {
+  display: flex;
+  justify-content: center;
+  height: map-get($layout, header-height-lg);
+  background: #2B2C28;
+  border-top: 2px solid #339989;
+  p {
+    color: $background-color;
+    font-size: map-get($base, font-size);
+  }
+}
+.service-header {
+  background: linear-gradient(
+    rgba(70, 72, 82, 0.3), 
+    rgba(70, 72, 82, 0.3)), 
+    url("/assets/images/cover-wrap.png");
+  background-size: cover;
+  height: map-get($layout, header-height-lg) * 2;
+  position: relative;
+  h4 {
+    line-height: map-get($layout, header-height-lg) * 2;
+    font-size: map-get($base, font-size-h3) * 1.6;
+    font-family: map-get($base, font-family-title2);
+    font-weight: normal;
+    color: $background-color;
+    margin-bottom: map-get($spacers, 2);
+  }
 }
 
 .form-page {
-  background-color: #8D86C9;
   height: 100vh;
 
   h3 {
