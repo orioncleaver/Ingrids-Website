@@ -1,21 +1,9 @@
 header:
-  - titles:
-      # @start locale config
-      en      : &EN       About
-      # @end locale config
-    url: /
-  - titles:
-      # @start locale config
-      en      : &EN       Menu
-      # @end locale config
+  - title: Menu
     url: /menu.html
-  - titles:
-      # @start locale config
-      en      : &EN       Location
-      # @end locale config
-    url: /location.html
-  - titles:
-      # @start locale config
-      en      : &EN       Contact
-      # @end locale config
+  - title: About
+    url: /
+  - title: Contact
     url: /#contact-form
+  - title: Location
+    url: /#location
