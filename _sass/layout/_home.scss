@@ -92,6 +92,7 @@
   }
   text-align: center;
   p {
+    position: relative;
     margin: 1rem;
     font-size: map-get($base, font-size);
   }
