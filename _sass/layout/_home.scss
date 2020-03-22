@@ -103,9 +103,8 @@
   background-size: cover;
   height: auto;
   min-height: map-get($layout, header-height-lg);
-  position: relative;
   h4 {
-    line-height: map-get($layout, header-height-lg);
+    // line-height: map-get($layout, header-height-lg);
     font-size: map-get($base, font-size-h3) * 1.6;
     font-family: map-get($base, font-family-title2);
     font-weight: normal;
