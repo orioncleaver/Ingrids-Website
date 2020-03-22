@@ -1,11 +1,14 @@
-- title: 'Lefse Orders'
+- title: 'Takeout & Delivery'
   description: |
-    The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. 
-    Sections 1.10.32 and 1.10.33 from 'de Finibus Bonorum et Malorum' by Cicero are also reproduced 
-    in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+    For to-go order, please call us at our phone number above. For delivery, we partner with Food on Demand, a local delivery service. Order through Food on Demand delivery on their app, at <a href="http://www.foodondemand.us">their website</a>, or by phone at <a href="tel:5037892458">(503) 250-3949</a>.
+
+
+- title: 'Lefse Orders'
+  header: true
+  description: |
+    We accept orders of lefse by the dozen. The lefse comes frozen and can be stored or used immediately. Great for family gatherings or events! Please call us or use the contact form below to get into contact with the owners about placing a lefse order.
 
 - title: 'Catering'
+  header: true
   description: |
-    The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. 
-    Sections 1.10.32 and 1.10.33 from 'de Finibus Bonorum et Malorum' by Cicero are also reproduced 
-    in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+    We offer an equisite array of dishes for any wedding, party, or event. Please use the contact form below to begin discussing the catering for your next event. 

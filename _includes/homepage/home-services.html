@@ -1,18 +1,19 @@
-<div class='full-content-width services-page'>
-  <div class='full-content-width services-header'>
+<div class='content-flex services-page'>
+  <div class='content-flex homepage-header'>
     <h3>Services</h3>
   </div>
-
-  <div class='full-content-width services-body'>
-    {% for service in site.data.services %}
-    <div class=' full-content-width service-header'>
+  {% for service in site.data.services %}
+  {% if service.header %}
+  <div class='content-flex homepage-subheader'></div>
+  {% endif %}
+  <div class='content-flex homepage-body'>
+    <div class='content-flex service-header'>
       <h4>{{ service.title }}</h4>
-    </div>    
+    </div>
     <p>{{ service.description }}</p>
-    {% endfor %}
   </div>
-
-  <div class='full-content-width services-footer'>
-    <p>If you have any questions or inquiries please let us know with the contact form below or at scandinaviandishes@gmail.com</p>
+  {% endfor %}
+  <div class='content-flex homepage-subheader'>
+    <p>If you have any inquiries please let us know below or at scandinaviandishes@gmail.com</p>
   </div>
 </div>

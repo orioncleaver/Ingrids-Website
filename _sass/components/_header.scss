@@ -22,7 +22,7 @@
   @include align-items(center);
   @include flex-wrap(nowrap);
   height: map-get($layout, header-height);
-  margin-right: map-get($spacers, 5);
+  margin-right: map-get($spacers, 4);
   @include media-breakpoint-down(md) {
     height: auto;
     margin-right: 0;
@@ -54,7 +54,7 @@
   & > a {
     margin-left: map-get($spacers, 2);
     display: inline-block;
-    font-size: map-get($base, font-size-h2) * 1.1;
+    font-size: map-get($base, font-size-h2);
     font-family: map-get($base, font-family-title);
     text-shadow: 2px 2px 0px rgba(0,0,0,0.1);
     @include media-breakpoint-down(md) {

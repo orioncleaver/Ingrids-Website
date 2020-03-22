@@ -223,3 +223,10 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+
+
+## => Google Maps
+##############################
+google-maps:
+  api_key: AIzaSyAyRr8929u_DmmXl6kiH5FKDXz0PAOt4zw
+  location: Ingrid's+Scandinavian+Food.+Oregon+City.+209+7th+Street
