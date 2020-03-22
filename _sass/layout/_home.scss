@@ -18,13 +18,11 @@
   width: 40%;
   min-width: 325px;
   height: 100%;
-  min-height: 400px;
   @include media-breakpoint-down(md) {
     margin: 0;
-    height: 100%;
     margin: 0;
     width: 100%;
-    min-height: auto;
+    height: 300px;
   } 
 
   a {
@@ -57,7 +55,7 @@
 
 .homepage-header {
   position: relative;
-  height: map-get($layout, header-height-lg);
+  height: map-get($layout, header-height);
   background: #2B2C28;
   border-bottom: 3px solid $main-color-3;
   h3 {
@@ -71,7 +69,7 @@
 }
 
 .homepage-subheader {
-  height: map-get($layout, header-height);
+  height: map-get($layout, header-height) * 0.7;
   background: #2B2C28;
   border-bottom: 3px solid $main-color-3;
   justify-content: center;
@@ -101,10 +99,10 @@
     rgba(70, 72, 82, 0.3)), 
     url("/assets/images/cover-wrap.png");
   background-size: cover;
-  height: map-get($layout, header-height-lg) * 2;
+  height: map-get($layout, header-height-lg);
   position: relative;
   h4 {
-    line-height: map-get($layout, header-height-lg) * 2;
+    line-height: map-get($layout, header-height-lg);
     font-size: map-get($base, font-size-h3) * 1.6;
     font-family: map-get($base, font-family-title2);
     font-weight: normal;
