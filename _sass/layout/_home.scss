@@ -1,7 +1,7 @@
 .home-container {
   display: flex;
   height: auto;
-  min-height: 100%;
+  min-height: max-content;
   width: 100%;
 
   @include media-breakpoint-down(md) {
