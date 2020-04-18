@@ -49,7 +49,14 @@ Venison burger with bacon, Gouda cheese, caramelized onion,  and horseradish aio
 #### HUNTSMEN SLIDERS . . . . . 14
 Two elk sliders with wild boar bacon, sauteed mushrooms and Danish Remoulade on ciabatta sliders
 
+## SPECIALS
 
+#### NORDIC PLATE . . . . . 10
+Four meatballs in Swedish brown gravy over noodles or potatoes and served with cucumber salad and a dollop of lingonberry jam
+#### HEARTY WAFFLE . . . . . 8
+Bacon, avocado, chèvre, egg cooked over-easy, and maple syrup on top of a crisp waffle
+#### HEARTY BOWL . . . . . 9
+Heart-healthy bowl of grains, greens, and smoked salmon topped with fresh avocado and an egg cooked over-easy
 
 ## SIDES 
 <div class="item" style="background-color:#f6f6f6;padding:1em;margin:1em 0;">
