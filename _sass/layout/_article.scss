@@ -30,3 +30,15 @@
 .article__content {
   margin: 0 map-get($spacers, 2)
 }
+
+.food-cards{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  align-items: center;
+  .card {
+    margin: 10px;
+    width: 300px;
+  }
+}

@@ -1,14 +1,17 @@
 - title: 'Pick-up & Delivery'
+  picture: "/assets/images/food/sliders.jpg"
   description: |
     For to-go orders, please call us at <a href="tel:5037440457">(503) 744-0457</a>. For delivery, we partner with Food on Demand, a local delivery service. Order through Food on Demand on their app, at <a href="https://www.foodondemand.us/order/restaurant/ingrids-scandinavian-food-partner-menu/77">their website</a>, or by phone at <a href="tel:5032503949">(503) 250-3949</a>.
 
 
 - title: 'Lefse Orders'
   header: true
+  picture: /assets/images/food/raspberry-wrap.jpg
   description: |
     We accept orders of lefse by the dozen. The lefse comes fresh so you can use it immediately, or store it for later. It is great for family gatherings and events! Please call us or use the contact form below to get into contact with the owners about placing a lefse order.
 
 - title: 'Catering'
   header: true
+  picture: /assets/images/homepage/3wraps.jpg
   description: |
     We offer an equisite array of dishes for any wedding, party, or event. Please use the contact form below to begin discussing the catering for your next event. 

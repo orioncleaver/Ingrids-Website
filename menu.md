@@ -5,8 +5,6 @@ key: page-about
 show_title: false
 ---
 
-![Wrap.png](/assets/images/cover-wrap.png)
-
 ## LEFSE WRAPS
 #### NORWEGIAN MEATBALL WRAP . . . . 8
 Norwegian meatballs and Surkål topped with Gjetost cheese sauce
@@ -29,12 +27,67 @@ Lightly pan-fried sweet potatoes slices on a bed of creamy chèvre and fresh spi
   </div>
 </div>
 
+<div class="food-cards">
+  <div class="card">
+    <div class="card__image">
+      <img class="image" src="/assets/images/food/meatball-wrap.jpg"/>
+      <div class="overlay overlay--bottom">
+        <p>Meatball Wrap</p>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card__image">
+      <img class="image" src="/assets/images/food/polse-wrap.jpg"/>
+      <div class="overlay overlay--bottom">
+        <p>Pølse Wrap</p>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card__image">
+      <img class="image" src="/assets/images/food/salmon-wrap.jpg"/>
+      <div class="overlay overlay--bottom">
+        <p>Salmon Wrap</p>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card__image">
+      <img class="image" src="/assets/images/food/veggie-wrap.jpg"/>
+      <div class="overlay overlay--bottom">
+        <p>Veggie Pear Wrap</p>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card__image">
+      <img class="image" src="/assets/images/food/kremet-wrap.jpg"/>
+      <div class="overlay overlay--bottom">
+        <p>Kremet Potet Wrap</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
 ## SWEET WRAPS
 #### LEMON RASPBERRY WRAP . . . . . 5
 House made lemon curd, raspberry sauce, and fresh whipped cream 
 #### LEFSE . . . . . 4
 Ingrid’s house made Lefse with butter and your choice of
 cinnamon-sugar, sugar, jam, or honey
+
+<div class="food-cards">
+  <div class="card">
+    <div class="card__image">
+      <img class="image" src="/assets/images/food/raspberry-wrap.jpg"/>
+      <div class="overlay overlay--bottom">
+        <p>Lemon Raspberry Wrap</p>
+      </div>
+    </div>
+  </div>
+</div>
 
 ## BURGERS
 
@@ -48,6 +101,27 @@ cinnamon-sugar, sugar, jam, or honey
 Venison burger with bacon, Gouda cheese, caramelized onion,  and horseradish aioli on a pub style bun
 #### HUNTSMEN SLIDERS . . . . . 14
 Two elk sliders with wild boar bacon, sauteed mushrooms and Danish Remoulade on ciabatta sliders
+
+<div class="food-cards">
+  <div class="card">
+    <div class="card__image">
+      <img class="image" src="/assets/images/food/burger.jpg"/>
+      <div class="overlay overlay--bottom">
+        <p>Viking Burger</p>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card__image">
+      <img class="image" src="/assets/images/food/sliders.jpg"/>
+      <div class="overlay overlay--bottom">
+        <p>Huntsmen Sliders</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
 
 ## SPECIALS
 
