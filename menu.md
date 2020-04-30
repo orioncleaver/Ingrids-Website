@@ -127,23 +127,20 @@ Two elk sliders with wild boar bacon, sauteed mushrooms and Danish Remoulade on 
 
 #### NORDIC PLATE . . . . . 10
 Four meatballs in Swedish brown gravy over noodles or potatoes and served with cucumber salad and a dollop of lingonberry jam
-#### HEARTY WAFFLE . . . . . 8
-Bacon, avocado, chèvre, egg cooked over-easy, and maple syrup on top of a crisp waffle
-#### HEARTY BOWL . . . . . 9
-Heart-healthy bowl of grains, greens, and smoked salmon topped with fresh avocado and an egg cooked over-easy
+#### OSTEPLATE . . . . . 15 / 8
+Features three Scandinavian cheeses (Ridderost, Nøkkelost, and Danish Brie). Served with house-roasted nuts, fruit, walnut bread, and Knäckebröd
 
-## SIDES 
-<div class="item" style="background-color:#f6f6f6;padding:1em;margin:1em 0;">
-  <div class="item__image">
-    <img class="image image--xl" src="/assets/images/menu/osteplate.jpg"/>
-  </div>
-  <div class="item__content">
-    <h4>OSTEPLATE</h4>
-    <div class="item__description">
-      <p>Features three Scandinavian cheeses (Ridderost, Nøkkelost, and Danish Brie). Served with house-roasted nuts, fruit, walnut bread, and Knäckebröd.</p>
+<div class="card">
+  <div class="card__image">
+    <img class="image" src="/assets/images/food/osteplate.jpg"/>
+    <div class="overlay overlay--bottom">
+      <p>Osteplate</p>
     </div>
   </div>
 </div>
+
+## SIDES 
+
 #### NORWEGIAN CUCUMBER SALAD . . . 3
 #### NORWEGIAN COLESLAW . . . . . 3
 #### NORWEGIAN MEATBALLS . . . . . 5
