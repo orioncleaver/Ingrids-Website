@@ -125,6 +125,8 @@ Two elk sliders with wild boar bacon, sauteed mushrooms and Danish Remoulade on 
 
 ## SPECIALS
 
+#### FIG WRAP . . . . . 9
+Cardamom and fig braised pork, arugula, house-pickled red onions, walnuts, Chèvre, and fig mustard wrapped up in a fresh lefse!
 #### NORDIC PLATE . . . . . 10
 Four meatballs in Swedish brown gravy over noodles or potatoes and served with cucumber salad and a dollop of lingonberry jam
 #### OSTEPLATE . . . . . 15 / 8
