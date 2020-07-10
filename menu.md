@@ -129,7 +129,8 @@ Two elk sliders with wild boar bacon, sauteed mushrooms and Danish Remoulade on 
 Cardamom and fig braised pork, arugula, house-pickled red onions, walnuts, Chèvre, and fig mustard wrapped up in a fresh lefse!
 #### NORDIC PLATE . . . . . 10
 Four meatballs in Swedish brown gravy over noodles or potatoes and served with cucumber salad and a dollop of lingonberry jam
-#### OSTEPLATE . . . . . 15 / 8
+
+<!--- #### OSTEPLATE . . . . . 15 / 8
 Features three Scandinavian cheeses (Ridderost, Nøkkelost, and Danish Brie). Served with house-roasted nuts, fruit, walnut bread, and Knäckebröd
 
 <div class="card">
@@ -139,7 +140,7 @@ Features three Scandinavian cheeses (Ridderost, Nøkkelost, and Danish Brie). Se
       <p>Osteplate</p>
     </div>
   </div>
-</div>
+</div> -->
 
 ## SIDES 
 
