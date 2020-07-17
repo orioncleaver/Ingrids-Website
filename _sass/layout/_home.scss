@@ -29,9 +29,14 @@
   a {
     margin: 0.5em;
   }
-  h3 {
+  h3 h4 {
     margin: 0;
   }
+}
+
+.delivery-logos {
+  display: flex;
+  justify-content: center;
 }
 
 .about-us {
