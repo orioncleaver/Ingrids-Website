@@ -28,9 +28,14 @@
   a {
     margin: 0.5em;
   }
-  h3 {
+  h3 h4 {
     margin: 0;
   }
+}
+
+.delivery-logos {
+  display: flex;
+  justify-content: center;
 }
 
 .about-us {
@@ -98,11 +103,6 @@
 }
 
 .service-header {
-  background: linear-gradient(
-    rgba(70, 72, 82, 0.3), 
-    rgba(70, 72, 82, 0.3)), 
-    url("/assets/images/cover-wrap.png");
-  background-size: cover;
   height: auto;
   min-height: map-get($layout, header-height-lg);
   h4 {
@@ -118,12 +118,32 @@
 .form-page {
   height: 80vh;
 
+  position: relative;
   h2, h4 {
     color: $main-color-3;
     font-family: map-get($base, font-family-title2);
     font-weight: 400;
   }
+  
+  .back-to-top {
+    position: absolute; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    background-color: $main-color-1; /* Set a background color */
+    color: white; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    border-radius: 10px; /* Rounded corners */
+    font-size: 18px; /* Increase font size */
+  }
 }
+
+
+
+
 
 form {
   display: flex;

@@ -7,7 +7,13 @@
   <div class='content-flex homepage-subheader'></div>
   {% endif %}
   <div class='content-flex homepage-body'>
-    <div class='content-flex service-header'>
+    <div class='content-flex service-header' style=' 
+      background:
+        linear-gradient(
+          rgba(70, 72, 82, 0.3), 
+          rgba(70, 72, 82, 0.3)),
+        url({{service.picture}});
+      background-size: auto 100%'>
       <h4>{{ service.title }}</h4>
     </div>
     <p>{{ service.description }}</p>

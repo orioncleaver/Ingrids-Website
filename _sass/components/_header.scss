@@ -1,20 +1,31 @@
 .header {
-  background: $header-background;
+  // background: $header-background;
+  background: linear-gradient(
+    rgba(70, 72, 82, 0.3), 
+    rgba(70, 72, 82, 0.3)),
+    url('/assets/images/homepage/cover.jpg') no-repeat;
+  background-size: 140%;
+  background-position: center;
   a {
     font-weight: map-get($base, font-weight);
     text-decoration: none !important;
     @include link-colors($header-text-color, $main-color-1);
   }
   .main {
+
+
     @include flexbox();
+    padding-bottom: 150px;
     @include media-breakpoint-down(md) {
       @include flex-direction(column);
+      padding-bottom: 0;
     }
   }
   -webkit-user-select: none; /* Safari */        
   -moz-user-select: none; /* Firefox */
   -ms-user-select: none; /* IE10+/Edge */
   user-select: none; /* Standard */
+
 }
 
 .header__title {
@@ -47,7 +58,7 @@
     margin-right: map-get($spacers, 2);
     vertical-align: middle;
     @include media-breakpoint-down(md) {
-      height: map-get($layout, header-height) * 1.1;
+      height: map-get($layout, header-height) * 1;
       margin: 0;
     }
   }
@@ -80,6 +91,7 @@
     }
   }
   & > ul li a {
+    color: white;
     font-size: map-get($base, font-size-h2) * .6;
     text-shadow: 1px 1px 0px rgba(0,0,0,0.1);
     font-weight: bolder;

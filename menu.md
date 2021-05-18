@@ -5,8 +5,6 @@ key: page-about
 show_title: false
 ---
 
-![Wrap.png](/assets/images/cover-wrap.png)
-
 ## LEFSE WRAPS
 #### NORWEGIAN MEATBALL WRAP . . . . 8
 Norwegian meatballs and Surkål topped with Gjetost cheese sauce
@@ -29,12 +27,67 @@ Lightly pan-fried sweet potatoes slices on a bed of creamy chèvre and fresh spi
   </div>
 </div>
 
+<div class="food-cards">
+  <div class="card">
+    <div class="card__image">
+      <img class="image" src="/assets/images/food/meatball-wrap.jpg"/>
+      <div class="overlay overlay--bottom">
+        <p>Meatball Wrap</p>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card__image">
+      <img class="image" src="/assets/images/food/polse-wrap.jpg"/>
+      <div class="overlay overlay--bottom">
+        <p>Pølse Wrap</p>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card__image">
+      <img class="image" src="/assets/images/food/salmon-wrap.jpg"/>
+      <div class="overlay overlay--bottom">
+        <p>Salmon Wrap</p>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card__image">
+      <img class="image" src="/assets/images/food/veggie-wrap.jpg"/>
+      <div class="overlay overlay--bottom">
+        <p>Veggie Pear Wrap</p>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card__image">
+      <img class="image" src="/assets/images/food/kremet-wrap.jpg"/>
+      <div class="overlay overlay--bottom">
+        <p>Kremet Potet Wrap</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
 ## SWEET WRAPS
 #### LEMON RASPBERRY WRAP . . . . . 5
 House made lemon curd, raspberry sauce, and fresh whipped cream 
 #### LEFSE . . . . . 4
 Ingrid’s house made Lefse with butter and your choice of
 cinnamon-sugar, sugar, jam, or honey
+
+<div class="food-cards">
+  <div class="card">
+    <div class="card__image">
+      <img class="image" src="/assets/images/food/raspberry-wrap.jpg"/>
+      <div class="overlay overlay--bottom">
+        <p>Lemon Raspberry Wrap</p>
+      </div>
+    </div>
+  </div>
+</div>
 
 ## BURGERS
 
@@ -49,27 +102,48 @@ Venison burger with bacon, Gouda cheese, caramelized onion,  and horseradish aio
 #### HUNTSMEN SLIDERS . . . . . 14
 Two elk sliders with wild boar bacon, sauteed mushrooms and Danish Remoulade on ciabatta sliders
 
-## SPECIALS
-
-#### NORDIC PLATE . . . . . 10
-Four meatballs in Swedish brown gravy over noodles or potatoes and served with cucumber salad and a dollop of lingonberry jam
-#### HEARTY WAFFLE . . . . . 8
-Bacon, avocado, chèvre, egg cooked over-easy, and maple syrup on top of a crisp waffle
-#### HEARTY BOWL . . . . . 9
-Heart-healthy bowl of grains, greens, and smoked salmon topped with fresh avocado and an egg cooked over-easy
-
-## SIDES 
-<div class="item" style="background-color:#f6f6f6;padding:1em;margin:1em 0;">
-  <div class="item__image">
-    <img class="image image--xl" src="/assets/images/menu/osteplate.jpg"/>
+<div class="food-cards">
+  <div class="card">
+    <div class="card__image">
+      <img class="image" src="/assets/images/food/burger.jpg"/>
+      <div class="overlay overlay--bottom">
+        <p>Viking Burger</p>
+      </div>
+    </div>
   </div>
-  <div class="item__content">
-    <h4>OSTEPLATE</h4>
-    <div class="item__description">
-      <p>Features three Scandinavian cheeses (Ridderost, Nøkkelost, and Danish Brie). Served with house-roasted nuts, fruit, walnut bread, and Knäckebröd.</p>
+  <div class="card">
+    <div class="card__image">
+      <img class="image" src="/assets/images/food/sliders.jpg"/>
+      <div class="overlay overlay--bottom">
+        <p>Huntsmen Sliders</p>
+      </div>
     </div>
   </div>
 </div>
+
+
+
+## SPECIALS
+
+#### FIG WRAP . . . . . 9
+Cardamom and fig braised pork, arugula, house-pickled red onions, walnuts, Chèvre, and fig mustard wrapped up in a fresh lefse!
+#### NORDIC PLATE . . . . . 10
+Four meatballs in Swedish brown gravy over noodles or potatoes and served with cucumber salad and a dollop of lingonberry jam
+
+<!--- #### OSTEPLATE . . . . . 15 / 8
+Features three Scandinavian cheeses (Ridderost, Nøkkelost, and Danish Brie). Served with house-roasted nuts, fruit, walnut bread, and Knäckebröd
+
+<div class="card">
+  <div class="card__image">
+    <img class="image" src="/assets/images/food/osteplate.jpg"/>
+    <div class="overlay overlay--bottom">
+      <p>Osteplate</p>
+    </div>
+  </div>
+</div> -->
+
+## SIDES 
+
 #### NORWEGIAN CUCUMBER SALAD . . . 3
 #### NORWEGIAN COLESLAW . . . . . 3
 #### NORWEGIAN MEATBALLS . . . . . 5
