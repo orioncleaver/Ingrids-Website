@@ -2,7 +2,7 @@ regular_hours:
   - day: 'Mon'
     hours: 'Closed'
   - day: 'Tue'
-    hours: 11:30 am - 8:30 pm
+    hours: 11:30 am - 8:00 pm
   - day: 'Wed'
     hours: 11:30 am - 8:00 pm
   - day: 'Thu'
