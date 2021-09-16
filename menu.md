@@ -84,7 +84,7 @@ cinnamon-sugar, sugar, jam, or honey
 
 #### VIKING BURGER . . . . . 14
 Venison patty, Gouda, bacon, caramelized onion, horseradish aioli, on a pub bun served with herbed pan-fried potato wedges and our creamy dill sauce
-#### HUNTSMEN SLIDERS . . . . . 14
+#### HUNTSMEN SLIDERS . . . . . 15
 Two Elk patties, sautéed mushrooms, wild boar bacon, Danish Remoulade, on ciabatta slider buns and served with herbed pan-fried potato wedges and our creamy dill suace
 #### SMASH BURGER . . . . . 12
 Local beef smash burger with sharp cheddar cheese, lettuce, onion, tomato, and our burger sauce served with Tim’s potato chips and a pickle spear
