@@ -6,16 +6,16 @@ show_title: false
 ---
 
 ## LEFSE WRAPS
-#### NORWEGIAN MEATBALL WRAP . . . . 8
-Norwegian meatballs and Surkål topped with Gjetost cheese sauce
-#### SALMON WRAP . . . . . 9
-Smoked salmon, slices of hard-boiled egg and cucumber on a bed of arugula topped with chèvre and our house made dill sauce
+#### NORWEGIAN MEATBALL WRAP . . . . 9
+Our Norwegian Meatballs on a bed of Surkål (a slow braised sweet and sour cabbage), covered in Gjetost cheese sauce and wrapped in our house-made Lefse
+#### SALMON WRAP . . . . . 10
+Smoked Salmon, slices of fresh cucumber and hard-boiled egg, and Chèvre cheese, on a bed of seasonal mixed greens, topped with our dill sauce 
 #### PØLSE WRAP . . . . . 7
-Smoked sausage with Norwegian coleslaw, dill mustard, and pickled onions and cucumbers
+Zenner’s German Beer Brat, slaw, pickled cucumber and onion topped with dill mustard 
 #### VEGGIE PEAR WRAP . . . . . 7
-Fresh pear, seasonal mixed greens, slices of hard-boiled egg and cucumber, feta, walnuts, and creamy cranberry sauce
-#### KREMET POTET WRAP . . . . . 7
-Lightly pan-fried sweet potatoes slices on a bed of creamy chèvre and fresh spinach with walnuts
+Slices of apple, cucumber, and hardboiled egg on a bed of mixed greens topped with creamy-cranberry sauce, walnuts, and feta cheese 
+#### FIG WRAP . . . . . 7
+Cardamom braised pork, arugula, pickled onions, walnuts, Chèvre, and fig-mustard sauce
 
 <div class="card">
   <div class="card__content">
@@ -60,22 +60,13 @@ Lightly pan-fried sweet potatoes slices on a bed of creamy chèvre and fresh spi
       </div>
     </div>
   </div>
-  <div class="card">
-    <div class="card__image">
-      <img class="image" src="/assets/images/food/kremet-wrap.jpg"/>
-      <div class="overlay overlay--bottom">
-        <p>Kremet Potet Wrap</p>
-      </div>
-    </div>
-  </div>
 </div>
-
 
 ## SWEET WRAPS
 #### LEMON RASPBERRY WRAP . . . . . 5
 House made lemon curd, raspberry sauce, and fresh whipped cream 
-#### LEFSE . . . . . 4
-Ingrid’s house made Lefse with butter and your choice of
+#### TRADITIONAL LEFSE . . . . . 4
+Ingrid’s house-made Lefse with butter and your choice of
 cinnamon-sugar, sugar, jam, or honey
 
 <div class="food-cards">
@@ -91,16 +82,14 @@ cinnamon-sugar, sugar, jam, or honey
 
 ## BURGERS
 
-<div class="card">
-  <div class="card__content">
-    <h5> Served with a side of roasted potato wedges and creamy dill sauce </h5>
-  </div>
-</div>
-
 #### VIKING BURGER . . . . . 14
-Venison burger with bacon, Gouda cheese, caramelized onion,  and horseradish aioli on a pub style bun
+Venison patty, Gouda, bacon, caramelized onion, horseradish aioli, on a pub bun served with herbed pan-fried potato wedges and our creamy dill sauce
 #### HUNTSMEN SLIDERS . . . . . 14
-Two elk sliders with wild boar bacon, sauteed mushrooms and Danish Remoulade on ciabatta sliders
+Two Elk patties, sautéed mushrooms, wild boar bacon, Danish Remoulade, on ciabatta slider buns and served with herbed pan-fried potato wedges and our creamy dill suace
+#### SMASH BURGER . . . . . 12
+Local beef smash burger with sharp cheddar cheese, lettuce, onion, tomato, and our burger sauce served with Tim’s potato chips and a pickle spear
+#### VEGAN BURGER . . . . . 13
+Beyond Beef burger patty, tomato jam, fresh onion, kale slaw, and vegan avocado crema on a pub style bun and served with Tim’s potato chips and a pickle spear
 
 <div class="food-cards">
   <div class="card">
@@ -121,14 +110,20 @@ Two elk sliders with wild boar bacon, sauteed mushrooms and Danish Remoulade on 
   </div>
 </div>
 
+## SANDWICHES
 
+<div class="card">
+  <div class="card__content">
+    <h5> Served with Tim's potato chips and a pickle spear </h5>
+  </div>
+</div>
 
-## SPECIALS
-
-#### FIG WRAP . . . . . 9
-Cardamom and fig braised pork, arugula, house-pickled red onions, walnuts, Chèvre, and fig mustard wrapped up in a fresh lefse!
-#### NORDIC PLATE . . . . . 10
-Four meatballs in Swedish brown gravy over noodles or potatoes and served with cucumber salad and a dollop of lingonberry jam
+#### CHICKEN SANDWICH . . . . 11
+House-roasted chicken breast, bacon jam, bacon, kale slaw, and aioli on a hoagie roll
+#### ROAST BEEF SANDWICH . . . . 11
+House-roasted roast beef, tomato jam, swiss cheese, pickled onion, kale slaw, and horseradish aioli on a hoagie roll
+#### BBLT . . . . 10
+Bacon jam, bacon, lettuce, tomato, and mayo on a hoagie roll
 
 <!--- #### OSTEPLATE . . . . . 15 / 8
 Features three Scandinavian cheeses (Ridderost, Nøkkelost, and Danish Brie). Served with house-roasted nuts, fruit, walnut bread, and Knäckebröd
@@ -142,14 +137,19 @@ Features three Scandinavian cheeses (Ridderost, Nøkkelost, and Danish Brie). Se
   </div>
 </div> -->
 
-## SIDES 
+## PLATES & SIDES
 
-#### NORWEGIAN CUCUMBER SALAD . . . 3
+#### NORDIC PLATE . . . . . . . 12
+Norwegian meatballs in brown gravy served with roasted potatoes, cucumber salad, and lingonberry jam
+#### NORWEGIAN CUCUMBER SALAD . . . 4
+Thinly slice cucumbers and red onions in a sweet/vinegary marinade
 #### NORWEGIAN COLESLAW . . . . . 3
-#### NORWEGIAN MEATBALLS . . . . . 5
-With your choice of sauce
-#### ROASTED POTATOES . . . . . 4
-With your choice of sauce
+#### CHIPS . . . . . . . . . 1.50
+Tim's potato chips
+#### NORWEGIAN MEATBALLS . . . . . 6
+Four Norwegian meatballs served with your choice of sauce
+#### ROASTED POTATOES . . . . . 5
+Roasted new potatoes served with your choice of sauce
 
 <div class="card">
   <div class="card__content">
@@ -162,11 +162,11 @@ With your choice of sauce
 </div>
 
 ## DRINKS
-##### Lingonberry Lemonade......3 
-##### Iced Tea......2 
-##### Pop......1.50 
+##### Lingonberry Lemonade......4
+##### Iced Tea......3
+##### Pop......1.50
+##### Coffee......3
 ##### Fentiman’s Ginger Beer......3.50
-##### Coffee......2 
 ##### Terminal Gravity IPA......4 
 ##### Fearless loki Red Ale......4
 ##### Pfriem Pilsner......6
